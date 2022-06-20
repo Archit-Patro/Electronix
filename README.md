@@ -1,7 +1,7 @@
 # Electronix
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" > <br> 
+ <img src="https://ibb.co/NmjQms2" > <br> 
 </p>
 
 ![electronix_grid]([url=https://ibb.co/NmjQms2][img]https://i.ibb.co/NmjQms2/Frame-58.png[/img][/url])
