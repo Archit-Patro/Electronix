@@ -4,7 +4,7 @@
  <img src="https://ibb.co/NmjQms2" > <br> 
 </p>
 
-![plot]("C:\Users\Microsoft\Downloads\Electronix\PosterElectronix.png")
+![plot](<a href="https://ibb.co/NmjQms2"><img src="https://i.ibb.co/jWMBWTk/Frame-58.png" alt="Frame-58" border="0"></a>)
 
 Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
 
