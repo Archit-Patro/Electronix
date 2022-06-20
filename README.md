@@ -1,9 +1,5 @@
 # Electronix
 
-<p align="center">
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Y38cWHg/ISTE-complete-white-10.png" alt="ISTE-complete-white-10" border="0" max-height="100px" width="auto"></a> <br> 
-</p>
-
 (<a href="https://ibb.co/NmjQms2"><img src="https://i.ibb.co/jWMBWTk/Frame-58.png" alt="Frame-58" border="0"></a>)
 
 Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
