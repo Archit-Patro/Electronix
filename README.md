@@ -12,6 +12,12 @@ The following resources consist of the slides taught in the workshop:
 
 - <a href="https://docs.google.com/presentation/d/1pFhvP4mxAaklfRwf3dmWqEdmsld-AVqP/edit?usp=sharing&ouid=115530944635330637991&rtpof=true&sd=true">Presentation</a>
 
+<h2>Recordings</h2>
+	
+The following resources consist of the recordings of the workshop:
+
+- <a href="https://drive.google.com/drive/folders/1lntoX6p3BObSsPFEuha6euwziIR9zL3X?usp=sharing">Presentation</a>
+
 <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
 </p>
