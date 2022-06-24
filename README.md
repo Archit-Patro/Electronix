@@ -44,6 +44,8 @@ ISTE-VIT presents Electronix, an interactive session in which you will delve int
 <a href="https://www.youtube.com/watch?v=AkZHnu-fEJ0&list=LL&index=4">Link</a>
 </td>
 </tr>
+</tbody>
+</table>
 
 <p align="center">
 	Made with :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
