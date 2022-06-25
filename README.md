@@ -15,13 +15,13 @@ ISTE-VIT presents Electronix, an interactive session in which you will delve int
 	
 <tr>		
 <td align="center" >
-<span><b><center>Topics</center></b></span>
+<span><b><center>Files</center></b></span>
 </td>
 
-<tr>		
-<td align="center" >
-<span><b><center>Links</center></b></span>
+<td align="center">
+<span><b><center>Repo</center></b></span>
 </td>
+</tr>
 
 <tr>
 <td align="center">
