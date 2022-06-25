@@ -18,17 +18,17 @@ ISTE-VIT presents Electronix, an interactive session in which you will delve int
 <span><b><center>Topics</center></b></span>
 </td>
 
+<tr>		
+<td align="center" >
+<span><b><center>Links</center></b></span>
+</td>
+
 <tr>
 <td align="center">
 <span><center>Slides</center></span>
 </td>
 <td align="center">
 <a href="https://docs.google.com/presentation/d/1pFhvP4mxAaklfRwf3dmWqEdmsld-AVqP/edit?usp=sharing&ouid=115530944635330637991&rtpof=true&sd=true">Link</a>
-</td>
-</tr>
-
-<td align="center">
-<span><b><center>Link</center></b></span>
 </td>
 </tr>
 
