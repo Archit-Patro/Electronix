@@ -1,10 +1,10 @@
 <h1 align = "center"> Electronix 🔌 </h1>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" ><br>
- <img src="https://github.com/Archit-Patro/Electronix/blob/main/Frame%2058.png" ><br>
+ ./(<img src="https://github.com/Archit-Patro/Electronix/blob/main/Frame%2058.png" >)<br>
 </p>
 
-<b>Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
+Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
 
 ISTE-VIT presents Electronix, an interactive session in which you will delve into the world of electrical circuits and the PCB manufacturing process while learning fascinating topics such as eagle, printed circuit boards, and many others!
 
