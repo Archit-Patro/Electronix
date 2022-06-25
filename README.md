@@ -19,7 +19,7 @@ ISTE-VIT presents Electronix, an interactive session in which you will delve int
 </td>
 
 <td align="center">
-<span><b><center>Repo</center></b></span>
+<span><b><center>Link</center></b></span>
 </td>
 </tr>
 
